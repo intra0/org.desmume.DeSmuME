@@ -38,8 +38,17 @@
             "name": "desmume",
             "buildsystem": "meson",
             "subdir": "desmume/src/frontend/posix/",
+            "build-options" : {
+                "arch": {
+                    "x86_64": {
+                        "cflags": "-minline-all-stringops"
+                    }
+                }
+            },
             "config-opts": [
-                "-Dfrontend-cli=false"
+                "-Dfrontend-cli=false",
+                "--buildtype=release",
+                "--optimization=2"
             ],
             "sources": [
                 {
