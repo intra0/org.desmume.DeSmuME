@@ -8,8 +8,8 @@
         "--socket=wayland",
         "--socket=fallback-x11",
         "--socket=pulseaudio",
-        "--device=dri",
-        "--share=ipc"
+        "--share=ipc",
+        "--device=all"
     ],
     "cleanup": [
         "/bin/pcap-config",
