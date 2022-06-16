@@ -52,9 +52,9 @@
             ],
             "sources": [
                 {
-                    "type": "git",
-                    "url": "https://github.com/TASVideos/desmume",
-                    "commit": "b4080b2cae2f8e2700e318b97e369915e8995796"
+                    "type": "archive",
+                    "url": "https://github.com/TASEmulators/desmume/archive/refs/tags/release_0_9_13.tar.gz",
+                    "sha256": "7e513f3112ac2955bd0951bc00a94f10220999b036745bde5ac01eb524e05b57"
                 }
             ]
         }
