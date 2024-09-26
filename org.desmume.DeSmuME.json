@@ -30,7 +30,7 @@
                 {
                     "type": "archive",
                     "url": "https://www.tcpdump.org/release/libpcap-1.10.5.tar.gz",
-                    "sha512": "c23737fb2376e68efb22ecb68bdf6ec68c7929ff26f4eb43f6041767d983d0ead6cea41cf48525514b6ea484157c1cceb93930011571dfd1f0fc32205371df2e"
+                    "sha512": "e599a31f2f1c03bdf386defa613ea9f08f80459c87068c2dd36c55c1bd678e2622cdce6333f0a776f16812df7bd4d6747820d1c35c7a2f1d7ad4a2ffb45dbe24"
                 }
             ]
         },
