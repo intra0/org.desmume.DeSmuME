@@ -1,7 +1,7 @@
 {
     "app-id": "org.desmume.DeSmuME",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "22.08",
+    "runtime-version": "24.08",
     "sdk": "org.freedesktop.Sdk",
     "command": "desmume",
     "finish-args": [
@@ -29,8 +29,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://www.tcpdump.org/release/libpcap-1.10.1.tar.gz",
-                    "sha512": "56c314f19c2b857742bf8abcb1e78066986aaa95cec339b75a3c8b70a9fa2b5167da98708352f9ec97a1cea2700cfb4e040bda108d58ac46cec9b7deab88d171"
+                    "url": "https://www.tcpdump.org/release/libpcap-1.10.5.tar.gz",
+                    "sha512": "c23737fb2376e68efb22ecb68bdf6ec68c7929ff26f4eb43f6041767d983d0ead6cea41cf48525514b6ea484157c1cceb93930011571dfd1f0fc32205371df2e"
                 }
             ]
         },
@@ -53,8 +53,8 @@
             "sources": [
                 {
                     "type": "git",
-                    "url": "https://github.com/TASVideos/desmume",
-                    "commit": "640a1fdd93ac935314ab2a69725d03abc0ba8a8b"
+                    "url": "https://github.com/TASEmulators/desmume",
+                    "commit": "91196788eb6f8543ea395ac1f6ad9e056dc7c5c2"
                 }
             ]
         }
